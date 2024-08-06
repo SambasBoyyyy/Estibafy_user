@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<!-- Permission options for the `location` group -->
+  <key>NSLocationWhenInUseUsageDescription</key>
+  <string>Need location when in use</string>
+  <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+  <string>Always and when in use!</string>
+  <key>NSLocationUsageDescription</key>
+  <string>Older devices need location.</string>
+  <key>NSLocationAlwaysUsageDescription</key>
+  <string>Can I have location always?</string>
+  <key>NSPhotoLibraryUsageDescription</key>
+  <string>App needs access to photo lib for profile images</string>
+
+  <key>NSCameraUsageDescription</key>
+  <string>To capture profile photo please grant camera access</string>
+
+  <key>CFBundleDevelopmentRegion</key>
+  <string>en</string>
+  <key>CFBundleExecutable</key>
+  <string>App</string>
+  <key>CFBundleIdentifier</key>
+  <string>io.flutter.flutter.app</string>
+  <key>CFBundleInfoDictionaryVersion</key>
+  <string>6.0</string>
+  <key>CFBundleName</key>
+  <string>App</string>
+  <key>CFBundlePackageType</key>
+  <string>FMWK</string>
+  <key>CFBundleShortVersionString</key>
+  <string>1.0</string>
+  <key>CFBundleSignature</key>
+  <string>????</string>
+  <key>CFBundleVersion</key>
+  <string>1.0</string>
+  <key>MinimumOSVersion</key>
+  <string>11.0</string>
+</dict>
+</plist>

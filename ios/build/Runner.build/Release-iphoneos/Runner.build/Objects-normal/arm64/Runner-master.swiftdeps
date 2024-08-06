@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "cdc4ea7ba4f33fa37abb127bd77bddf6efb1d85941fdf742eb604415a1cb421f"
+build_start_time: [1666297554, 982316970]
+build_end_time: [1666297555, 274437904]
+inputs:
+  "/Users/laptopwala/Documents/Fiverr Projects/Estibafyuser/EstibafyUserApp/ios/Runner/AppDelegate.swift": !dirty [1666260669, 343998432]
